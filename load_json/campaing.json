@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Giyim Ürünlerinde Büyük İndirim Yaklaşıyor",
+    "subtitle": "Hafta sonuna özel indirimler seni bekliyor",
+    "description": "Sadece bu hafta sonuna özel giyim ürünlerinde büyük indirimler seni bekliyor.Tüm ürünlerde 3 al 2 öde fırsatı ",
+    "image": "https://flutter.github.io/assets-for-api-docs/assets/widgets/text.png"
+  },
+  {
+    "title": "Ayakkabılara Özel İndirim Fırsatı",
+    "subtitle": "Hafta sonuna özel indirimler seni bekliyor",
+    "description": "Tüm Ayakkabılarda %50 indirimler devam ediyor. ",
+    "image": "https://flutter.github.io/assets-for-api-docs/assets/widgets/text_ellipsis.png"
+  },
+  {
+    "title": "Yiyecek Ve İçeceklerde Geçerli Büyük İndirim",
+    "subtitle": "15 gün sürecek büyük indirim seni bekliyor",
+    "description": "Sadece yiyecek ve içecek ürünlerinde geçerli olan büyük indirim fırsatına kaçırma,bütün ürünlerde %60'a var indirim fırsatları. ",
+    "image": "https://flutter.github.io/assets-for-api-docs/assets/widgets/text_rich.png"
+  }
+]
